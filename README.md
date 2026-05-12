@@ -198,31 +198,7 @@ The Streamlit dashboard includes:
 
 * Incomplete rides mainly occurred due to customer demand and vehicle issues.
 
----
 
-# 📷 Dashboard Screenshots
-
-## Overall Dashboard
-
-(Add Screenshot Here)
-
-## Vehicle Type Dashboard
-
-(Add Screenshot Here)
-
-## Revenue Dashboard
-
-(Add Screenshot Here)
-
-## Cancellation Dashboard
-
-(Add Screenshot Here)
-
-## Ratings Dashboard
-
-(Add Screenshot Here)
-
----
 
 # 🚀 How to Run the Project
 
